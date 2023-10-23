@@ -16,12 +16,5 @@
   - ![image](https://github.com/BsNgChiThanh/Cai-Project2010-va-kich-hoat/assets/82578024/c6cc1a67-4e64-422d-a41c-a7ff19e005d5)
   - ![image](https://github.com/BsNgChiThanh/Cai-Project2010-va-kich-hoat/assets/82578024/744642e6-0b5b-4130-ba79-b11c1faaada7)
   - ![image](https://github.com/BsNgChiThanh/Cai-Project2010-va-kich-hoat/assets/82578024/fa4a26a2-f591-4400-89ef-3f955c603769)
-  - 
-
-
-
-
-
-
-
-
+  - ![image](https://github.com/BsNgChiThanh/Cai-Project2010-va-kich-hoat/assets/82578024/71b8dd62-85a3-4036-9617-dd93e0d3e2ad)
+  - ![image](https://github.com/BsNgChiThanh/Cai-Project2010-va-kich-hoat/assets/82578024/6284b0b8-ca3a-411e-8b24-c6aa36675200)
