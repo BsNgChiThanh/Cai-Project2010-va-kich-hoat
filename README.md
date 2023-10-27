@@ -1,6 +1,6 @@
 # CÀI ĐẶT PROJECT 2010 VÀ KÍCH HOẠT VĨNH VIỄN #
 ## CÀI ĐẶT PROJECT 2010 ## 
-  - Download file cài đặt PROJECT 2010 [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EeJLMDL7B35Eq_U45jUumKcBC53ePPDzN-gO2N1ELvTP8g?e=eNFWCK) hoặc [tại đây](https://drive.google.com/file/d/120cNfKQR0-cP0zUX7NucKzX3I2AmNDJG/view) Mật khẩu giải nén: PITVNcommunity. Mật khẩu cũ PITVN.
+  - Download source [PROJECT 2010](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EeJLMDL7B35Eq_U45jUumKcBC53ePPDzN-gO2N1ELvTP8g?e=eNFWCK):
   - https://drive.massgrave.dev/SW_DVD5_Project_Pro_2010w_SP1_W32_English_MLF_X17-76660.ISO
   - https://drive.massgrave.dev/SW_DVD5_Project_Pro_2010w_SP1_64Bit_English_MLF_X17-76681.ISO
   - Cài đặt bình thường, cài xong thì tiến hành kích hoạt.
